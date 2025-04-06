@@ -5,6 +5,8 @@ This repository contains two related data analysis projects using Python and Jup
 ## 📁 Contents
 - **Project_python Market.ipynb**: Data analysis of market sales and trends.
 - **Project_python Store.ipynb**: Store-specific data exploration and visualization.
+- **Market Table.xlsx**: Market Dataset
+- **Store Table.xlsx**: Store Dataset
 
 ## 🧰 Tools & Libraries
 - Python
